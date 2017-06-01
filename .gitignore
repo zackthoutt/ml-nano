@@ -1,1 +1,9 @@
 .DS_STORE
+*.p
+.ipynb_checkpoints
+__pycache__
+image-classification/cifar-10-batches-py
+image-classification/cifar-10-python.tar.gz
+image-classification/image_classification.data-00000-of-00001
+checkpoint
+submission.zip
