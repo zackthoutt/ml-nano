@@ -1,0 +1,8 @@
+My project is based on a Kaggle competition. There are links in my report that will take you to the competition page where you can get the data sets you need to recreate my work.
+
+Here is a list of the libraries that my project requires:
+- pandas
+- numpy
+- sklearn
+- xgBoost
+- matplotlib

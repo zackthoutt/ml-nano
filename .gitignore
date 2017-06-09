@@ -7,3 +7,7 @@ image-classification/cifar-10-python.tar.gz
 image-classification/image_classification.data-00000-of-00001
 checkpoint
 submission.zip
+*.csv
+*.xlsx
+Proposal.*
+capstone.zip
